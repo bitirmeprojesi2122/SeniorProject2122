@@ -5,12 +5,16 @@
 
 # **Name of The Project**
 
-Blockchain-Based Chat Application
+**Blockchain-Based Chat Application**
 
-# **Name URL Of The Project**
+# **Web Site URLs Of The Project**
 
-- (https://chainchat.netlify.app/)
-- (http://chainchat.website/)
+- https://chainchat.netlify.app/
+- http://chainchat.website/
+
+# **GitHub URL Of The Project**
+
+- https://github.com/bitirmeprojesi2122/SeniorProject2122
 
 
 # **Names Of The Team Members**
