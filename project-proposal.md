@@ -1,5 +1,5 @@
 ![](RackMultipart20211017-4-1rums2j_html_3882503174720e10.png)
-![alt text](http://www.tedu.edu.tr/sites/default/files/content_files/dikeyeng-02_0.png)
+![alt text](http://www.tedu.edu.tr/sites/default/files/content_files/dikeyeng-02.png)
 
 # ***Project Proposal***
 
