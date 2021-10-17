@@ -10,15 +10,15 @@
 
 ## Onur Aladı
 
-** Name of The Project**
+***Name of The Project***
 
 Blockchain-Based Chat Application
 
-** Name URL Of The Project**
+***Name URL Of The Project***
 
 [**https://teduchat.netlify.app/**](https://teduchat.netlify.app/)
 
-** Names Of The Team Members**
+***Names Of The Team Members***
 
 - Kadir Kaan Yazgan
 - Barış Özçelikay
