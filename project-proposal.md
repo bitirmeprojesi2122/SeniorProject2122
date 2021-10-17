@@ -10,7 +10,6 @@
 # **Web Site URLs Of The Project**
 
 - https://chainchat.netlify.app/
-- http://chainchat.website/
 
 # **GitHub URL Of The Project**
 
