@@ -2,7 +2,7 @@
 
 # **Project Proposal**
 
-***Name of The Project***
+****Name of The Project****
 
 Blockchain-Based Chat Application
 
