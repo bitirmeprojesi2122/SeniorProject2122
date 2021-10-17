@@ -9,7 +9,9 @@ Blockchain-Based Chat Application
 
 # **Name URL Of The Project**
 
-[**https://teduchat.netlify.app/**](https://teduchat.netlify.app/)
+- (https://chainchat.netlify.app/)
+- (http://chainchat.website/)
+
 
 # **Names Of The Team Members**
 
