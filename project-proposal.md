@@ -7,7 +7,7 @@
 
 **Blockchain-Based Chat Application**
 
-# **Web Site URLs Of The Project**
+# **Web Site URL Of The Project**
 
 - https://chainchat.netlify.app/
 
