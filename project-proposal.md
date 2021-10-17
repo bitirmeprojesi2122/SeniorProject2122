@@ -2,14 +2,6 @@
 
 # **Project Proposal**
 
-## Kadir Kaan Yazgan
-
-## Barış Özçelikay
-
-## Gökay Özsoy
-
-## Onur Aladı
-
 ***Name of The Project***
 
 Blockchain-Based Chat Application
@@ -25,13 +17,13 @@ Blockchain-Based Chat Application
 - Gökay Özsoy
 - Onur Aladı
 
-** Names Of The Supervisor &amp; Jury Members**
+***Names Of The Supervisor &amp; Jury Members***
 
 **Supervisor :** Emin KUĞU
 
 **Jury Members:** Haydar ÇUKURTEPE &amp; Ulaş GÜLEÇ
 
-** Project Description**
+**Project Description**
 
 The purpose of this senior project is to secure people&#39;s private conversations on their chat applications. Nowadays there are a couple of companies that shared their user&#39;s information to 3rd party companies. This situation is illegal so we came up with a solution that was inspired by these kinds of problems that occurred at the beginning of 2021. The popular chat apps such as telegram, Turkcell&#39;s bip, etc. still haven&#39;t been able to solve the privacy problem that occurred, fully. Our goal is to make this privacy issue disappear and make people conversate without security doubts on their minds.
 
